@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "MRF Tyers",
+    "image": "https://www.pngitem.com/pimgs/m/218-2189796_mrf-tyre-logo-png-transparent-png.png",
+    "h": 60,
+    "w": 100
+  },
+  {
+    "id": 2,
+    "name": "Ceat",
+    "h": 60,
+    "w": 100,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS57pHnjMcb8dvXB8SqScKgyChVSZBvFzrbbA&s"
+  },
+  {
+    "id": 3,
+    "name": "Good Tyers",
+    "h": 60,
+    "w": 100,
+    "image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0005/1588/brand.gif?itok=r8IBTqqp"
+  },
+  {
+    "id": 4,
+    "name": "Apollo",
+    "h": 60,
+    "w": 100,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh1kRb4e_oO66pfRumyerbfY_QOHw-2OCk0Q&s"
+  },
+  {
+    "id": 5,
+    "name": "Bridegestone",
+    "h": 60,
+    "w": 100,
+    "image": "https://i.pinimg.com/originals/6b/db/80/6bdb803d5948189038910297567f6f2e.png"
+  }
+]

@@ -1,0 +1,21 @@
+/* src/ScrollableCarousel.css */
+.scrollable-carousel {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+}
+
+.carousel-inner {
+  display: flex;
+  overflow-x: auto;
+}
+
+.carousel-item {
+  flex: 0 0 auto;
+  scroll-snap-align: center;
+  transition: transform 0.5s ease;
+}
+
+.carousel-inner::-webkit-scrollbar {
+  display: none; /* Hide scrollbar */
+}
